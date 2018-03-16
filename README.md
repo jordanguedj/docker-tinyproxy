@@ -1,2 +1,2 @@
 # tinyproxy
-Dockerized [tinyproxy](https://github.com/tinyproxy).
+Dockerized [tinyproxy](https://github.com/tinyproxy/tinyproxy).
